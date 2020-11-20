@@ -1,1 +1,1 @@
-﻿I got the list via List class of C#. I didn't use file reading.
+﻿I got the list via List class of C#. I didn't use file reading or standard input. Please use the code for input.
