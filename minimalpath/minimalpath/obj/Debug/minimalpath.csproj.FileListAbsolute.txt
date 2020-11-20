@@ -1,0 +1,7 @@
+C:\Users\anilc\source\repos\minimalpath\minimalpath\bin\Debug\minimalpath.exe.config
+C:\Users\anilc\source\repos\minimalpath\minimalpath\bin\Debug\minimalpath.exe
+C:\Users\anilc\source\repos\minimalpath\minimalpath\bin\Debug\minimalpath.pdb
+C:\Users\anilc\source\repos\minimalpath\minimalpath\obj\Debug\minimalpath.csprojAssemblyReference.cache
+C:\Users\anilc\source\repos\minimalpath\minimalpath\obj\Debug\minimalpath.csproj.CoreCompileInputs.cache
+C:\Users\anilc\source\repos\minimalpath\minimalpath\obj\Debug\minimalpath.exe
+C:\Users\anilc\source\repos\minimalpath\minimalpath\obj\Debug\minimalpath.pdb

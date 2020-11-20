@@ -1,0 +1,1 @@
+﻿I got the list via List class of C#. I didn't use file reading.
